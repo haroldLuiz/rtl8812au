@@ -1,3 +1,7 @@
+## NOT THE ORIGINAL ONE ##
+This is the https://github.com/aircrack-ng/rtl8812au/tree/006c821ae82f0675d98db5c569a30591f5fc2a70 project and subversion with minor changes to be able to make/make install on 5.10.0-kali6-amd64, this version was choosen because of good experience while using in conjuction with Alfa AWUS1900.
+As far as i tested everything with Alfa AWUS1900 works flawlessly on 5.10.0-kali6-amd64 and this driver.
+
 ## RTL8812AU/21AU and RTL8814AU drivers
 Only for use with Linux & Android
 
